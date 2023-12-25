@@ -205,4 +205,3 @@ while True:
         break
     else:
         get_data(user_input.lower().strip())
-        print("Ehllo")
